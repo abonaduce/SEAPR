@@ -1,0 +1,38 @@
+---
+title: "Sea Level Research  \nWorkshop "
+author: |
+ | A. Bonaduce (NERSC), J. A. Johannessen (NERSC), K. Richter (NORCE), R. P. Raj (NERSC), A. Born (UiB)
+date: "12th October 2020 - Bjerknes Center for Climate Research (BCCR), Bergen, Norway"
+
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("images/LOGO.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; right:0; padding:5px;',width = 400, height=100)
+```
+
+
+
+# How to join the Meeting
+
+The workshop will be held as a physical meeting on the 12th October 2020 at the [Bjerknes Center for Climate Research (BCCR)](https://bjerknes.uib.no/en) (Jahnebakken 5 - 4th floor). 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1971.750921948971!2d5.329733251916075!3d60.38327438195182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cfeacc81d0b1b%3A0x9fd66cc8bc5e16d5!2sJahnebakken%205%2C%205007%20Bergen!5e0!3m2!1sen!2sno!4v1601994641925!5m2!1sen!2sno" width="800" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
+## Virtual Meeting
+
+The instructions to attend the workshop online will be sent by email to all participants
+on the 11th of October 2020.
+
+
+*  Teams meeting 
+
+

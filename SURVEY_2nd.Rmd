@@ -1,0 +1,132 @@
+---
+title: "2nd Questionnaire - Outcomes"
+---
+
+![](images/LOGO.png){width=60%}
+
+
+# {.tabset .tabset-fade .tabset-pills}
+***
+
+## Sessions
+
+### Specify which **Sessions** were of major interest to you
+
+```{r, echo=FALSE, message=FALSE, warning= FALSE}
+DATA <- read.csv("OUT_SESSIONS.csv")
+q <- DATA$q
+perc <- DATA$f
+df <- data.frame(q=q,perc=perc)
+p <- plot_ly(df,x = ~perc, y = ~q, type = 'bar',
+       name = ~q, color = ~q) %>%
+       layout(yaxis = list(title = ''), xaxis = list(title = '(%)'), barmode = 'stack', margin = list(l = 300, r = 10, b = 50, t = 50, pad = 4))
+p <- hide_legend(p)
+
+p
+```
+
+## Gaps
+
+### In the framework of a Sea Level Research Group, did you find any knowledge **gaps?**
+
+* Several
+
+* Modelling **glacial isostatic adjustment**, Modelling **mountain glacier contribution** to present and future sea-level**
+
+* **Tidal** modelling, **GIA** modelling
+
+* I think there were experts in every field, but **scattered**
+
+* Assesment of **vertical land movements** (not only GIA) for relative sea-level change**
+
+* **Tidal** and high resolution **coastal modelling**
+
+* We do not have competence within the field of **glacioisostatic modelling** and also **GPS/sealevel measuring (Kartverket/Map Authority)**
+
+
+## Strategy to fill Gaps
+
+### Which is the best **strategy to fill those gaps?**
+
+```{r, echo=FALSE, message=FALSE, warning= FALSE}
+DATA <- read.csv("OUT_STRATEGY.csv")
+q <- DATA$q
+perc <- DATA$f
+df <- data.frame(q=q,perc=perc)
+p <- plot_ly(df,x = ~perc, y = ~q, type = 'bar',
+       name = ~q, color = ~q) %>%
+       layout(yaxis = list(title = ''), xaxis = list(title = '(%)'), barmode = 'stack', margin = list(l = 300, r = 10, b = 50, t = 50, pad = 4))
+p <- hide_legend(p)
+
+p
+```
+
+## Target
+
+### Can you identify **priority areas to be targeted** by a Sea Level Research Group?
+
+```{r, echo=FALSE, message=FALSE, warning= FALSE}
+DATA <- read.csv("OUT_TARGET.csv")
+q <- DATA$q
+perc <- DATA$f
+df <- data.frame(q=q,perc=perc)
+p <- plot_ly(df,x = ~perc, y = ~q, type = 'bar',
+       name = ~q, color = ~q) %>%
+       layout(yaxis = list(title = ''), xaxis = list(title = '(%)'), barmode = 'stack', margin = list(l = 300, r = 10, b = 50, t = 50, pad = 4))
+p <- hide_legend(p)
+
+p
+```
+
+* "I HAVE JUST MARKED BY OWN RESEARCH PRIORITIES. I AM NOT CONVINCED THE SLR GROUP SHOULD HAVE AN OVERALL RESEARCH PRIORITY. PEOPLE SHOULD WORK ON WHATEVER THEY ARE WORKING ON AND USE THE GROUP TO FIND POSSIBLE COLLABORATIONS"
+
+* "BROADEN THEIR PERSPECTIVE AND REPRESENT SL RESEARCH IN THE LARGER BJERKNES COMMUNITY"
+
+
+## Your Study
+
+### Can you tell more about your idea for a **collaborative sea-level study**
+
+* **Downscaling of the NorESM sea level projection** using observations, the reanalyses and projections of sea level (TOPAZ and NorCPM respectively)
+
+* I think **collaboration will come naturally** in this group of people sharing ideas
+
+* **Modulation of extreme sea levels by interannual/decadal variability** and the evaluation of hindcasts with respect to predicting this variability
+
+
+## Funding Line
+
+### Which could be the most appropriate **funding line for your study**?
+
+```{r, echo=FALSE, message=FALSE, warning= FALSE}
+DATA <- read.csv("OUT_FUNDING_LINE.csv")
+q <- DATA$q
+perc <- DATA$f
+df <- data.frame(q=q,perc=perc)
+p <- plot_ly(df,x = ~perc, y = ~q, type = 'bar',
+       name = ~q, color = ~q) %>%
+       layout(yaxis = list(title = ''), xaxis = list(title = '(%)'), barmode = 'stack', margin = list(l = 300, r = 10, b = 50, t = 50, pad = 4))
+p <- hide_legend(p)
+
+p
+```
+
+## Funding Strategy
+
+### Which is your preferred **funding strategy**?
+
+```{r, echo=FALSE, message=FALSE, warning= FALSE}
+DATA <- read.csv("OUT_FUNDING_STRATEGY.csv")
+q <- DATA$q
+perc <- DATA$f
+df <- data.frame(q=q,perc=perc)
+p <- plot_ly(df,x = ~perc, y = ~q, type = 'bar',
+       name = ~q, color = ~q) %>%
+       layout(yaxis = list(title = ''), xaxis = list(title = '(%)'), barmode = 'stack', margin = list(l = 300, r = 10, b = 50, t = 50, pad = 4))
+p <- hide_legend(p)
+
+p
+```
+
+* "I HOPE BCCR WILL ALLOCATE RESOURCES FOR SEALEVEL RESEARCH"
+

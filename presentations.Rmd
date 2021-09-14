@@ -1,0 +1,49 @@
+---
+title: ""
+---
+
+![](images/LOGO.png){width=60%}
+
+
+# Sea Level Research Workshop
+## Welcome and Introduction
+(A. Bonaduce, NERSC) [(Download)](https://drive.google.com/file/d/1jLMYK7wpy_pGqcUi_6cG4m2ckJpuZdar/view?usp=sharing)
+
+## Session 1: Observation-based Studies
+
+ * **Sea-level history along the west coast of Norway** (John I. Svendsen, UiB) [(Download)](https://drive.google.com/file/d/1fqLypNH_ypQjiOc8cWktrPF-XL7VQpXe/view?usp=sharing)
+
+ *  **Arctic Sea Level Budget Assessment during the GRACE/Argo Time Period** (Roshin Raj, NERSC) [(Download)](https://drive.google.com/file/d/1bmc3ZaFTJB9pdifA-LPrQ2r_BtddhMxo/view?usp=sharing)
+
+ *  **Re-assessing extreme sea level events through interplay of tides and storm surges** (Stephen Outten, NERSC) [(Download)](https://drive.google.com/file/d/1KTlWRjlqIu_S53eCrP-akVrK0ZeaTSGl/view?usp=sharing)
+
+## Session 2: Model-based Studies
+
+  *  **Ice sheet modelling at Bjerknes Center** (Petra Langebroek, NORCE) [(Download)](https://drive.google.com/file/d/1n9Mtdjwj9u-y4mCA21ZlY8bY5oFSwUeS/view?usp=sharing)
+
+  *  **Concurrency of sea level and wave height extremes in Norwegian coastal waters** (Ole Johan Aarnes, Norwegian Meteorological Institute) [(Download)](https://drive.google.com/file/d/1w25GSuTyBmxlQhot1XuBb1ui6jo1-mw6/view?usp=sharing)
+
+  *  **Introducing the Norwegian Climate Prediction Model and Mare Nullius project** (Noel Keenlyside, UiB/NERSC; Vandhna Kumar, UiB) [(Download)](https://drive.google.com/file/d/1HqCygIKKXmx0t-3FNQutbKUheDd0F00b/view?usp=sharing)
+
+## Session 3: Synergy between observations and models
+
+  *  **New tools to estimate the stability of the Greenland ice sheet** (Andreas Born, UiB) [(Download)](https://drive.google.com/file/d/1ZR_H_uhd9PwcL0YY13lSqTr2JoUwGUxu/view?usp=sharing)
+
+  *  **Coastal Changes during 21st Century** (William Helland-Hansen, UiB) [(Download)](https://drive.google.com/file/d/1psGSp3hzpx16Q2Bs5Z47JiLhSIclmmrB/view?usp=sharing)
+
+  *  **Sea level in Arctic ocean reanalysis** (Jiping Xie, NERSC) [(Download)](https://drive.google.com/file/d/1COslq3tYUVlt1lhTcKFmAGIelmzag0ZV/view?usp=sharing)
+
+## Session 4: Projections
+
+  * **The future sea-level contribution of the Greenland ice sheet: a multi-model ensemble study of ISMIP6** (Heiko Goelzer, NORCE) [(Download)](https://drive.google.com/file/d/1FF4TmsG9c4RnaBg0FgP3PzIgUiDqS6c_/view?usp=sharing)
+
+  *  **Current sea-level projections for Norway (NCCS report) and where to go from there** (Kristin Richter, NORCE) [(Download)](https://drive.google.com/file/d/1RWRvk3MBRvqphgHp6BihAvAYn77H2qFu/view?usp=sharing)
+
+## Session 5: Inovative Methods
+
+  *  **Overview of ML/AI methods in marine science** (Ketil Malde, IMR; Machine Learning group Departments of Informatics, UiB) [(Download)](https://docs.google.com/presentation/d/1PKcfD5dKLR0UT93YI3SSSc7d6ImuY8wKNiZVSvMFPEA/edit?usp=sharing)
+
+## Discussion
+
+  *  **The relevance of sea-level research in regard to the transition of Bjerknes Center from Phase 2 to Phase 3** (Tore Forevik, BCCR) [(Download)](https://drive.google.com/file/d/1Lqf3Pi8z58Xhko4GiNufMdARoMZYwXNe/view?usp=sharing)
+

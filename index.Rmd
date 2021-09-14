@@ -1,0 +1,70 @@
+---
+title: "Sea Level Research  \nWorkshop"
+date: "12th October 2020 - Bjerknes Center for Climate Research (BCCR), Bergen, Norway"
+
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+    css: custom.css
+---
+
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("images/LOGO.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; right:0; padding:5px;',width = 440, height=120)
+```
+
+
+# Sea Level Change: Earth system feedback
+
+**Sea-level** variability is **characterized** by multiple **interacting components of the Earth system** (i.e.
+atmosphere, hydrosphere, lithosphere) that act over a wide spectrum of temporal and spatial scales
+Therefore, **sea-level research** must follow a **multidisciplinary** approach as it requires **multiple
+skills** to capture the cascade of processes characterizing the **global and regional sea-level** variability and
+trends.
+
+The accurate estimate of the components contributing to the **global sea-level** and their **role/impact at the regional scales** is recognized by the World Climate Research Programme (WCRP) and the Intergovernmental Panel on Climate Change (IPCC) as one of the **priorities for climate research** duringthe next decades, with a large **societal benefit and impact**. Sea level is an essential climate variable (ECV) and considered a **key climate indicator** and at the same time represents one of the largest societal **concerns about climate change**, because of the potential impacts of sea-level rise on the large human population inhabiting the coastal regions and the loss of natural resources.
+
+
+# Purpose of the Workshop 
+
+**Research on sea-level change** is challenging and requires cross-disciplinary skills to account for the unresolved feedbacks of the Earth system at the broad range of temporal and spatial scales.  
+
+The **BCCR** and its partners **offer the scientific framework** to meet such a challenge. This workshop initiative aims to define and implement such a framework for sea-level research.
+
+The overall objective of the workshop is to **foster the collaboration** between the different partners of the BCCR on sea-level research and to set-up a **Sea-level Research Group**.  
+
+Look at the workshop [Concept Note](concept.hml) for further details. 
+
+
+# Join the Workshop [(Agenda)](agenda.html)
+
+The workshop will be held at the [Bjerknes Center for Climate Research (BCCR)](https://bjerknes.uib.no/en) (**Jahnebakken 5 - 4th floor**) on the **12th October 2020** (from 10:00 am to 4:00 pm). 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1971.750921948971!2d5.329733251916075!3d60.38327438195182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cfeacc81d0b1b%3A0x9fd66cc8bc5e16d5!2sJahnebakken%205%2C%205007%20Bergen!5e0!3m2!1sen!2sno!4v1601994641925!5m2!1sen!2sno" width="800" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
+# Join Online 
+
+The access to the online meeting will **start on the 12th October 2020 at 9:30 am**. We invite the remote participants to follow the [Agenda](agenda.html) and **join online** during the workshop registration **(from 9:30 to 10:00 am)**, or at their earliest convenience.  
+
+**Follow this link to** [Join online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTk3MTUyYTgtYjllOS00YjI1LWI5ZmEtMDUwMjJmYzFkMGY3%40thread.v2/0?context=%7b%22Tid%22%3a%2238400994-4c9c-4239-91ce-227c2f3ff292%22%2c%22Oid%22%3a%225ad5101f-51f0-44ba-a0ec-94ab67426024%22%7d)
+![](images/TEAMS_LOGO.png){width=10%}
+
+(if you are not "Teams" users, you can join online using the [web application](https://teams.microsoft.com)).
+
+# Organizing Committee
+
+[A. Bonaduce](https://www.nersc.no/staff/antonio-bonaduce), Nansen Environmental and Remote Sensing Center (NERSC)    
+[J. A. Johannessen](https://www.nersc.no/staff/johnny-johannessen), Nansen Environmental and Remote Sensing Center (NERSC)  
+[K. Richter](https://www.norceresearch.no/en/persons/kristin-richter), Norwegian Research Centre (NORCE)   
+[R. P. Raj](https://www.nersc.no/staff/roshin-raj), Nansen Environmental and Remote Sensing Center (NERSC)   
+ 
+# Acknowledgements
+
+We thank the **Bjerknes Centre for Climate Reasearch** and the [Hazards](https://www.bjerknes.uib.no/en/climate-hazards-research-theme) and [Polar Climate](https://www.bjerknes.uib.no/en/polar-climate-research-theme) Research themes, for supporting this initiative.   
+
+

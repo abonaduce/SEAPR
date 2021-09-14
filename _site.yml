@@ -1,0 +1,23 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Sea Level Research Workshop"
+  left:
+    - text: "Concept Note"
+      href: concept.html
+    - text: "Agenda"
+      href: agenda.html
+    - text: "Presentations"
+      href: presentations.html
+    - text: "Minutes"
+      href: minutes.html
+    - text: "Questionnaire"
+      href: question_2nd.html
+    - text: "Questionnaire Outcome"
+      href: SURVEY_2nd.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<antonio.bonaduce@nersc.no>
+output:
+  html_document:
+    theme: cerulean
+    css: custom.css
